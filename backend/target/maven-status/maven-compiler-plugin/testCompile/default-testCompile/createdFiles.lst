@@ -1,0 +1,16 @@
+com\shopsphere\controller\AuthenticationIntegrationTests.class
+com\shopsphere\controller\SecurityAuditIntegrationTests.class
+com\shopsphere\controller\ProductFilterIntegrationTests.class
+com\shopsphere\controller\OrderControllerIntegrationTests.class
+com\shopsphere\service\AuthServiceTest.class
+com\shopsphere\service\OrderServiceTest.class
+com\shopsphere\ShopSphereApplicationTests.class
+com\shopsphere\controller\ProductControllerIntegrationTests.class
+com\shopsphere\controller\AdminControllerIntegrationTests.class
+com\shopsphere\service\ProductServiceTest.class
+com\shopsphere\repository\JpaMappingTests.class
+com\shopsphere\service\CartServiceTest.class
+com\shopsphere\controller\CartControllerIntegrationTests.class
+com\shopsphere\controller\WishlistControllerIntegrationTests.class
+com\shopsphere\controller\AdminCategoryCrudIntegrationTests.class
+com\shopsphere\controller\AdminProductCrudIntegrationTests.class
